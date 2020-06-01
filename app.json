@@ -1,0 +1,39 @@
+{
+  "id": "a7a49c61-7712-400a-9fc5-bc35f8e02af5",
+  "name": "Business Central Cloud Container App Sample",
+  "publisher": "Alberto Valenti",
+  "brief": "Business Central Cloud Container App Sample",
+  "description": "Business Central Cloud Container App Sample",
+  "version": "3.0.0.16",
+  "privacyStatement": "https://www.business-central.blog",
+  "contextSensitiveHelpUrl": "https://www.business-central.blog",
+  "EULA": "https://www.business-central.blog",
+  "help": "https://www.business-central.blog",
+  "url": "https://www.business-central.blog",
+  "capabilities": [],
+  "platform": "15.0.0.0",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "runtime": "5.0",
+  "logo": "Logo/logo.png",
+  "idRange": {
+    "from": 70659924,
+    "to": 706599999
+  },
+  "features": [
+    "TranslationFile"
+  ]
+}
